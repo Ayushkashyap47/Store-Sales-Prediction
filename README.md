@@ -1,1 +1,1 @@
-# Store-Sales-Prediction project link - https://store-sales5.herokuapp.com/
+# Store-Sales-Prediction project link - https://storesales-pred.herokuapp.com/
